@@ -1,0 +1,39 @@
+body{
+	color:black;
+	background-color:green;
+}
+
+
+#wrapper{
+	width:800px;
+	margin:0 auto;
+	background-color:green;
+}
+
+
+#contentBody1{
+	float:left;
+	width:200px;
+	height: 200px;
+	background-color:blue;
+	padding:5px;
+}
+
+#contentBody2{
+	float:right;
+	width:200px;
+	height:200px;
+	background:red;
+	padding:5px;
+}
+
+#contentBody3{
+	float:left;
+	width:200px;
+	height:200px;
+	background:yellow;
+	padding:5px;
+	position:relative;
+	left:85px;
+	top:210px;
+}

@@ -1,0 +1,40 @@
+body{
+	color:white;
+	background-color:white;
+	font-family:"Times New Roman", Times, serif;
+}
+
+.makeitbold{
+	font-weight:bold;
+	font-size:20px;
+	position:relative;
+	top:10px;
+}
+
+#leftSide #footer span{
+	font-size:10px;
+}
+
+#wrapper{
+	width:1300px;
+	margin:0 auto;
+	background-color:black;
+}
+
+#header{
+	height:60px;
+	text-align:center;
+	background-color:red;
+}
+
+#leftSide{
+	height:600px;
+	background-color:green;
+	padding:5px;
+}
+
+#footer{
+	height:60px;
+	clear:both;
+	background-color:blue;
+}
